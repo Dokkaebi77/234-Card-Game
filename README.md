@@ -1,4 +1,4 @@
-# Pass & Play Card Games
+# 234 Card Game
 
 A same-device multiplayer card game website designed for friends to pass one phone/tablet back and forth.
 
